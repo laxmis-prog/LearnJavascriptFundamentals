@@ -7,6 +7,7 @@ let quarterMe = 1152;
 
 levelUp += 5;
 powerLevel -= 100;
+multiplyMe *= 11;
 
 // These console.log() statements below will help you check the values of the variables.
 // You do not need to edit these statements.
